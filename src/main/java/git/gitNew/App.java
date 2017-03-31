@@ -12,5 +12,6 @@ public class App
         System.out.println( "First Change!" );
         System.out.println( "second Change!" );
         System.out.println( "First clone!" );
+        System.out.println( " New branch created" );
     }
 }
